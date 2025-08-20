@@ -1,6 +1,7 @@
 {
-  "name": "COPPER-TEST",
-  "symbol": "CTS",
-  "description": "Description of token",
+  "name": "COPPERSOL",
+  "symbol": "CPRSL",
+  "description": "This token is a way to track the price of copper, it is a synthetic RWA",
   "image": null
+
 }
